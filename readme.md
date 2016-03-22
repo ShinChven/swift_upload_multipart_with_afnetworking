@@ -1,0 +1,1 @@
+swift upload multipart file to server with AFNetworking lib.
